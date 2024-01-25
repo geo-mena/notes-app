@@ -11,7 +11,7 @@ Para ejecutar esta aplicación, necesitarás tener instalado Node.js y npm. Pued
 1. Clona el repositorio en tu máquina local usando `git clone`.
 
 ```sh
-git clone [<url del repositorio>](https://github.com/geo-mena/notes-app.git)
+git clone https://github.com/geo-mena/notes-app.git
 ```
 
 2. Navega hasta el directorio del proyecto.
